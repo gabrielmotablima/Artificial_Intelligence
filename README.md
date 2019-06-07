@@ -1,6 +1,6 @@
 # Basic AI Templates
 
-This repository is detined to basic algorithms about Artificial Intelligence which can be used like templates.
+This repository is detined to basic algorithms about Artificial Intelligence which can be used as templates.
 The folder sequence expected:
   - Basic AI Templates
     - Machine Learning
