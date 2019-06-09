@@ -23,4 +23,4 @@ The folder sequence expected:
         - Autoencoders
         - Perceptrons
         - Extreme Learning Machines
-    - Searching Algorithms
+    - Search Agents
