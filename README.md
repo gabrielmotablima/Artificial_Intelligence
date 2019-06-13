@@ -1,6 +1,6 @@
 # Basic AI Templates
 
-This repository is destined to basic algorithms about Artificial Intelligence which can be used as templates.
+This repository is intended for basic Artificial Intelligence algorithms that can be used as models.
 
 Some implementations have been taken from online courses such as "Machine Learning A-Z ™: Hands-On Python and R In Data Science" (from SuperDataScience).
 
