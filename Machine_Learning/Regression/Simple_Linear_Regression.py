@@ -12,13 +12,14 @@ import pandas as pd
 
 # Importing the dataset
 
-# For .csv data on the same code's folder, otherwise you will have to specify the file address.
+# For .csv data in the same code's folder, otherwise you will have to specify the file address.
 # The dataset have to be in format: | ID COLUMN | FEATURE COLUMNS | LABEL COLUMN |
-# Just set YOUR_DATA.csv in read_csv pandas function and see what happens
+# Just set YOUR_DATA.csv in read_csv pandas function, INDEPENDEN_VARIABLES_COLUMNS in iloc,
+# DEPENDENT_VARIABLE_COLUMN iloc and see what happens
 
 dataset = pd.read_csv('YOUR_DATA.csv')
-X = dataset.iloc[:, :-1].values
-y = dataset.iloc[:, 1].values
+X = dataset.iloc[:, [INDEPENDENT_VARIABLES_COLUMNS]].values
+y = dataset.iloc[:, DEPENDENT_VARIABLE_COLUMN].values
 
 # Splitting the dataset into the Training set and Test set
 
