@@ -70,7 +70,7 @@ for i, j in enumerate(np.unique(y_set)):
 				c = ListedColormap(('red', 'green'))(i), label = j)
 				
 plt.title('Logistic Regression (Training set)')
-plt.xlabel('X_VARIABLES (DEPENDENT VARIABLES)')
-plt.ylabel('Y_VARIABLES (INDEPENDENT VARIABLES)')
+plt.xlabel('X_VARIABLES (INDEPENDENT VARIABLES)')
+plt.ylabel('Y_VARIABLES (DEPENDENT VARIABLES)')
 plt.legend()
 plt.show()
