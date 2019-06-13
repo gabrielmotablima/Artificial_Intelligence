@@ -1,6 +1,9 @@
 # Basic AI Templates
 
 This repository is detined to basic algorithms about Artificial Intelligence which can be used as templates.
+
+Some implementations have been taken from online courses such as "Machine Learning A-Z ™: Hands-On Python and R In Data Science" (from SuperDataScience).
+
 The folder sequence expected:
   - Basic AI Templates
     - Machine Learning
