@@ -11,10 +11,11 @@ import pandas as pd
 
 # Importing the dataset, you can just substitute YOUR_DATE for your file's name,
 # choose the interval of independent and dependent variables in your CSV file
-# And finally run the code
+# And finally run the code, change it on INDEPENDENT_VARIABLES_COLUMNS and
+# DEPENDENT_VARIABLES_COLUMN.
 dataset = pd.read_csv('YOUR_DATA.csv')
 X = dataset.iloc[:, [INDEPENDENT_VARIABLES_COLUMNS]].values
-y = dataset.iloc[:, INDEPENDENT_VARIABLES_COLUMN].values
+y = dataset.iloc[:, DEPENDENT_VARIABLES_COLUMN].values
 
 # Splitting the dataset into the Training set and Test set
 from sklearn.model_selection import train_test_split
