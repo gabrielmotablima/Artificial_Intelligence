@@ -4,14 +4,14 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
 
 
 1. If you are looking for the K-NN method only, here it is:
-
-```py
-# Check the docummentation for the parametrization of "KNeighborsClassifier()"
-from sklearn.neighbors import KNeighborsClassifier
-classifier = KNeighborsClassifier() 
-classifier.fit( <x_train> , <y_train> )
-prediction = classifier.predict( <whatever_you_want> )
-```
+  - Check the docummentation for the parametrization of "KNeighborsClassifier()".
+  - <x_train>, <y_train> and <whatever_you_want> are data arrays that you have already pre-processed.
+  ```py
+  from sklearn.neighbors import KNeighborsClassifier
+  classifier = KNeighborsClassifier() 
+  classifier.fit( <x_train> , <y_train> )
+  prediction = classifier.predict( <whatever_you_want> )
+  ```
 ![KNN](https://github.com/GabrielMotaBLima/Basic_AI_Templates/blob/master/Machine%20Learning/Supervised%20Learning/Classification/K-Nearest%20Neighbors/KNN.png?raw=true)
 
 
