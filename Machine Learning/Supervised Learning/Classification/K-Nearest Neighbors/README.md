@@ -1,7 +1,7 @@
 # K-Nearest Neighbors Algorithm
 
 Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
-![KNN](https://github.com/GabrielMotaBLima/Basic_AI_Templates/blob/master/Machine%20Learning/Supervised%20Learning/Classification/K-Nearest%20Neighbors/KNN.png?raw=true)
+![KNN](/Illustrations/KNN)
 
 
 
