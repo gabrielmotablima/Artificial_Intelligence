@@ -20,11 +20,13 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
 2. If you want to know more about the algorithm, including data processing (pre-processing, visualization and tuning):
     - Can you look the code into file "K-NN.py"
     - I'll draw a simple explanation:
+        
         The K-Nearest Neighbors Algorithm classify a new sample based on the already registered samples. For example:
-        i. 
+        
+        i.
         ![Data1](Illustrations/Data1.png)
         
-        ii. Now, new data appears:
+        ii.
         ![Data2](Illustrations/Data2.png)
         
         iii.
