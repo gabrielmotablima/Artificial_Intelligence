@@ -1,7 +1,7 @@
 # K-Nearest Neighbors Algorithm
 
 Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
-![KNN](Illustrations/KNN)
+![KNN](Illustrations/KNN.png)
 
 
 
