@@ -24,16 +24,21 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
         The K-Nearest Neighbors Algorithm classify a new sample based on the already registered samples. For example:
         
         i.
+        
         ![Data1](Illustrations/Data1.png)
         
         ii.
+        
         ![Data2](Illustrations/Data2.png)
         
         iii.
+        
         ![Data3](Illustrations/Data3.png)
         
         iv.
+        
         ![Zoom](Illustrations/Zoom.png)
         
         v.
+        
         ![Zoom2](Illustrations/Zoom2.png)
