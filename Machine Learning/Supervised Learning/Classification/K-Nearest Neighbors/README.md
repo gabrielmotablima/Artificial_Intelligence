@@ -31,11 +31,11 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
         
         ![Data2](Illustrations/Data2.png)
         
-        iii. We get the K nearest data:
+        iii. We get the K nearest data. Suppose we choose K equal to 4, in this case:
         
         ![Data3](Illustrations/Data3.png)
         
-        iv. The new data is classified based on the class with the most data among the K samples:
+        iv. The new data is classified based on the class with the most data among the 4 samples:
         
         ![Zoom](Illustrations/Zoom.png)
         
