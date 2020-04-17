@@ -27,11 +27,11 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
         
         ![Data1](Illustrations/Data1.png)
         
-        ii. A new data appears:
+        ii. You want to classify a new data:
         
         ![Data2](Illustrations/Data2.png)
         
-        iii. We get the K nearest data. Suppose we choose K equal to 4, in this case:
+        iii. We get the nearest K data. Suppose we choose K equal to 4, in this case:
         
         ![Data3](Illustrations/Data3.png)
         
