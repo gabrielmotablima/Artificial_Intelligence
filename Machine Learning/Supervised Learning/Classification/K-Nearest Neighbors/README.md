@@ -1,11 +1,11 @@
 # K-Nearest Neighbors Algorithm
 
-Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+### Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 ![KNN](Illustrations/KNN.png)
 
 
 
-1. If you are looking for the K-NN method only, here it is:
+### 1. If you are looking for the K-NN method only, here it is:
     - Check the docummentation for the parametrization of "KNeighborsClassifier()".
     - <x_train>, <y_train> and <whatever_you_want> are data arrays that you have already pre-processed.
     ```py
@@ -17,7 +17,7 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
 
 
 
-2. If you want to know more about the algorithm, including data processing (pre-processing, visualization and tuning):
+### 2. If you want to know more about the algorithm, including data processing (pre-processing, visualization and tuning):
     - Can you look the code into file "K-NN.py"
     - I'll draw a simple explanation:
         
