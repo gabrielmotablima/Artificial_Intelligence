@@ -39,6 +39,6 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
         
         ![Zoom](Illustrations/Zoom.png)
         
-        v. Put the new data into its class:
+        v. Classify the new data:
         
         ![Zoom2](Illustrations/Zoom2.png)
