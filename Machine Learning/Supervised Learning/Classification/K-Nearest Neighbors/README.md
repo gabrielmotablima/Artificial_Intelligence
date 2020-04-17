@@ -21,24 +21,24 @@ Docummentaton: https://scikit-learn.org/stable/modules/generated/sklearn.neighbo
     - Can you look the code into file "K-NN.py"
     - I'll draw a simple explanation:
         
-        The K-Nearest Neighbors Algorithm classify a new sample based on the already registered samples. For example:
+        The K-nearest neighbors algorithm classifies a new sample based on the samples already registered. For example:
         
-        i.
+        i. A set of samples:
         
         ![Data1](Illustrations/Data1.png)
         
-        ii.
+        ii. A new data appears:
         
         ![Data2](Illustrations/Data2.png)
         
-        iii.
+        iii. We get the K nearest data:
         
         ![Data3](Illustrations/Data3.png)
         
-        iv.
+        iv. The new data is classified based on the class with the most data among the K samples:
         
         ![Zoom](Illustrations/Zoom.png)
         
-        v.
+        v. Put the new data into its class:
         
         ![Zoom2](Illustrations/Zoom2.png)
