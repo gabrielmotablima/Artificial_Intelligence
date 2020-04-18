@@ -7,11 +7,11 @@ Some implementations have been taken from online courses such as "Machine Learni
 The folder sequence expected:
   - Atificial Intelligence
     - Machine Learning
-       - Supervised Learning (Basics)
+       - Supervised Learning
           - Regression
           - Classification
             - [K-NN](https://github.com/GabrielMotaBLima/Basic_AI_Templates/tree/master/Machine%20Learning/Supervised%20Learning/Classification/K-Nearest%20Neighbors)
-       - Unsupervised Learning (Basics)
+       - Unsupervised Learning
           - Clustering
           - Association Rule Learning
           - Dimensionality Reduction
