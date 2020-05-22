@@ -6,8 +6,9 @@ This powerful neural network architecture is capable of classify, identify or cl
 the most complex sample of unstructured data.
 
 The preprocessing layer is structured in some operations:
-  - Convolution
-  - Activation Function (yes, here too)
+  - Convolution: is a linear operation that two sequences of values (function-based, or not)
+    are crossed, resulting in a new sequence of values.
+  - Activation Function (yes, here too); 
   - Pooling
   - Batch Normalization
   - Sampling
