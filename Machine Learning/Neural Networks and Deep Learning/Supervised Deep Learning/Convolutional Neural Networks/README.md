@@ -10,6 +10,7 @@ The preprocessing layer is structured in some operations:
     are crossed, resulting in a new sequence of values.
   - Activation Function (yes, here too): is a function, at most time a ReLU function, intended
     to apply a transformation over the value of image matrix and its convolution/pooling/sampling matrixes.
-  - Pooling
+  - Pooling: is an operation over matrix that gets the highest value of a matrix region and insert the value
+    in a new matrix, lower than the prior matrix.
   - Batch Normalization
   - Sampling
