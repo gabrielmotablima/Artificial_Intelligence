@@ -18,3 +18,7 @@ The preprocessing layer is structured in some operations:
   - Batch Normalization
   
   - Sampling
+
+### First Step --> Libraries
+
+![libraries](Illustrations/libs1.png)
