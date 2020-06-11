@@ -9,6 +9,7 @@ The folder sequence expected:
     - Machine Learning
        - Supervised Learning
           - Regression
+            - [Multiple Linear Regression](https://github.com/GabrielMotaBLima/Artificial_Intelligence/tree/master/Machine%20Learning/Supervised%20Learning/Regression/Multiple%20Linear%20Regression)
           - Classification
             - [K-NN](https://github.com/GabrielMotaBLima/Basic_AI_Templates/tree/master/Machine%20Learning/Supervised%20Learning/Classification/K-Nearest%20Neighbors)
        - Unsupervised Learning
