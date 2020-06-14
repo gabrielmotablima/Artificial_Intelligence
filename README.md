@@ -15,6 +15,7 @@ The folder sequence expected:
             - [Support Vector Regression](https://github.com/GabrielMotaBLima/Artificial_Intelligence/tree/master/Machine%20Learning/Supervised%20Learning/Regression/Support%20Vector%20Regression)
           - Classification
             - [K-NN](https://github.com/GabrielMotaBLima/Basic_AI_Templates/tree/master/Machine%20Learning/Supervised%20Learning/Classification/K-Nearest%20Neighbors)
+            - [Logistic Regression](https://github.com/GabrielMotaBLima/Artificial_Intelligence/tree/master/Machine%20Learning/Supervised%20Learning/Classification/Logistic%20Regression)
        - Unsupervised Learning
           - Clustering
             - [K-Means](https://github.com/GabrielMotaBLima/Artificial_Intelligence/tree/master/Machine%20Learning/Unsupervised%20Learning/Clustering/K-Means)
