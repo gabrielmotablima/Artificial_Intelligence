@@ -30,7 +30,7 @@ The folder sequence expected:
         - [Convolutional Neural Networks](https://github.com/GabrielMotaBLima/Artificial_Intelligence/tree/master/Machine%20Learning/Neural%20Networks%20and%20Deep%20Learning/Supervised%20Deep%20Learning/Convolutional%20Neural%20Networks)
         - Recurrent Neural Networks
         - Generative Adversarial Networks
-        - Autoencoders
+        - Autoencoders (Next addition)
         - Perceptrons
         - Extreme Learning Machines
     - Search Agents
