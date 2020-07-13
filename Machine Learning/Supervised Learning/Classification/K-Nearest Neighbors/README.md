@@ -37,7 +37,7 @@ prediction = classifier.predict( <whatever_you_want> )
     
     ---
     
-    iii. We get the nearest K data. Suppose we choose K equal to 4, in this case:
+    iii. We get the nearest K data. Suppose we choose K equals to 4, in this case:
 
     ![Data3](Illustrations/Data3.png)
     
